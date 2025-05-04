@@ -57,7 +57,7 @@ uvicorn main:app --reload
 
 You can now access the FastAPI documentation at `http://localhost:8000/docs`.
 
-## Endpoints
+## Example Endpoints
 
 ### POST `/auth/`
 - Register a new user.
