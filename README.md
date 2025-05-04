@@ -1,5 +1,5 @@
 
-# FastAPI Authentication and User Management
+# FastAPI TODO Authentication and User Management (Clean Architecture)
 
 This project demonstrates a FastAPI-based backend system for user authentication and management. It includes features like user registration, login, password change, and token authentication. 
 
